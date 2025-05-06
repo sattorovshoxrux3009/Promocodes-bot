@@ -55,7 +55,7 @@ const services = {
       en: "https://uzum1.prfl.me/promokod.chegirmalar/tqdxrw",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -65,7 +65,7 @@ const services = {
       en: `💜 Uzum Tezkor\n\n🎁 YXLTD - promo code 21,000 soums discount for the first 3 orders over 65,000 soums\n\n@yandex_telegram`,
     },
   },
-  "🍕Bellissimo Pizza": {
+  "🍕 Bellissimo Pizza": {
     image: "./bellissimo.JPG",
     link1: {
       uz: "https://bp.uz/app",
@@ -73,7 +73,7 @@ const services = {
       en: "https://bp.uz/app",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -91,7 +91,7 @@ const services = {
       en: "https://express24.prfl.me/pramakod.chegirma/pbela0",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -109,7 +109,7 @@ const services = {
       en: "https://go-yandex.prfl.me/promokod.chegirmalar/gae6x0",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -127,7 +127,7 @@ const services = {
       en: "https://t.me/oqtepalavash_bot_qollanma",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -145,7 +145,7 @@ const services = {
       en: "https://ypls-eats.prfl.me/promokod.chegirmalar/ki8oby",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -163,7 +163,7 @@ const services = {
       en: "https://uzum.uz",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -181,7 +181,7 @@ const services = {
       en: "https://go.yandex",
     },
     link2: {
-      uz: "https://www.instagram.com/areel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
       en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
     },
@@ -189,6 +189,60 @@ const services = {
       uz: `✅ Promokod: - AYCZG5MLN-AF -50% Chegirma istalgan xaridlar uchun (Maximal 80,000 soʻm)\n\n@yandeks_telegram`,
       ru: `✅ Промокод: - AYCZG5MLN-AF -50% Скидка на любые покупки (Максимум 80 000 сумов)\n\n@yandex_telegram`,
       en: `✅ Promo code: - AYCZG5MLN-AF -50% Discount for any purchases (Maximum 80,000 soums)\n\n@yandex_telegram`,
+    },
+  },
+  "🍕 Apex Pizza": {
+    image: "./apexpizza.png",
+    link1: {
+      uz: "https://t.me/yandeks_telegram/325",
+      ru: "https://t.me/yandeks_telegram/325",
+      en: "https://t.me/yandeks_telegram/325",
+    },
+    link2: {
+      uz: "https://t.me/yandeks_telegram",
+      ru: "https://t.me/yandeks_telegram",
+      en: "https://t.me/yandeks_telegram",
+    },
+    promo: {
+      uz: `✅ APEX PIZZA PROMOKODLAR\n\n🔰Promokod:chegirma30\n\nPromokod ilovadan - dostavka xizmatida - savatdagi istalgan pizza uchun -30% chegirma qilib beradi. Faqat pizza uchun!\n\nDostavka: Bepul\n\nPromokod: Aktivatsiyasi 2 marta`,
+      ru: `✅ ПРОМОКОДЫ ПИЦЦЫ APEX\n\n🔰Промокод:chegirma30\n\nПромокод дает вам скидку -30% на любую пиццу в корзине - в службе доставки - из приложения. Только для пиццы!\n\nДоставка: Бесплатно\n\nПромокод: Активировать 2 раза`,
+      en: `✅ APEX PIZZA PROMO CODES\n\n🔰Promo code:chegirma30\n\nThe promo code gives you a -30% discount on any pizza in the cart from the app - in the delivery service. Only for pizza!\n\nDelivery: Free\n\nPromo code: Activation 2 times`,
+    },
+  },
+  "🛴 Jet": {
+    image: "./jet.png",
+    link1: {
+      uz: "https://t.me/yandeks_telegram",
+      ru: "https://t.me/yandeks_telegram",
+      en: "https://t.me/yandeks_telegram",
+    },
+    link2: {
+      uz: "https://t.me/yandeks_telegram/309",
+      ru: "https://t.me/yandeks_telegram/309",
+      en: "https://t.me/yandeks_telegram/309",
+    },
+    promo: {
+      uz: `💙 Jet Promokod: MZLKUT \n\n- 2 TA Somakat safarlari uchun -50% chegirma`,
+      ru: `💙 Промокод Jet: MZLKUT \n\n- скидка 50% на 2 поездки в Сомакат`,
+      en: `💙 Jet Promo Code: MZLKUT \n\n- 50% discount for 2 Somakat trips`,
+    },
+  },
+  "🚴‍♂️ Wolt": {
+    image: "./wolt.png",
+    link1: {
+      uz: "https://t.me/yandeks_telegram/308",
+      ru: "https://t.me/yandeks_telegram/308",
+      en: "https://t.me/yandeks_telegram/308",
+    },
+    link2: {
+      uz: "https://t.me/yandeks_telegram",
+      ru: "https://t.me/yandeks_telegram",
+      en: "https://t.me/yandeks_telegram",
+    },
+    promo: {
+      uz: `✅ Promokod: FSZ39KA ✅\n\nWolt ilovasi uchun -45,000 so'm chegirma\n\nUshbu imkoniyat ayni Yandex Eatsdan foydalanboʻganlar uchun🤩`,
+      ru: `✅ Промокод: FSZ39KA ✅\n\n-45 000 сумов скидка на приложение Wolt\n\nЭта возможность для тех, кто пользуется Яндекс Едит🤩`,
+      en: `✅ Promo code: FSZ39KA ✅\n\n-45,000 soums discount for the Wolt app\n\nThis opportunity is for those who use Yandex Eats🤩`,
     },
   },
   "📭 Umumiy ma'lumotlar": {
@@ -421,11 +475,13 @@ bot.on("message", (msg) => {
 
     const serviceButtons = [
       ["🌭 Yandex Eats", "🍔 Uzum Tezkor"],
-      ["🍕Bellissimo Pizza", "🛸 Exprees24"],
+      ["🍕 Bellissimo Pizza", "🛸 Exprees24"],
       ["🥦 Yandex Магазин", "🚀 Oqtepa Lavash Bot"],
       ["🎧 Yandex Plus", "🎁 Uzum Market"],
-      ["🛍️ Yandex Market", t.info],
-      [t.help, t.chat],
+      ["🛍️ Yandex Market", "🍕 Apex Pizza"],
+      ["🛴 Jet", "🚴‍♂️ Wolt"],
+      [t.info, t.help],
+      [t.chat],
     ];
 
     const prompt = {
@@ -472,7 +528,7 @@ bot.on("message", (msg) => {
                     : lang === "ru"
                     ? "🛍️ Перейти к приложению"
                     : "🛍️ Go to the app",
-                url: link1, // Web appni olib tashlab faqat URL
+                url: link1,
               },
               {
                 text:
