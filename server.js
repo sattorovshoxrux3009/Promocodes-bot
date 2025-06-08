@@ -102,22 +102,22 @@ const services = {
       en: `💛 Express24\n\n 🎁 STPL4- promo code 35,000 soums discount for the first order over 80,000 soums\n\n‼️ Promo code works in all cafes, restaurants and shops\n\n@yandex_telegram`,
     },
   },
-  "🥦 Yandex Магазин": {
-    image: "./yandex_magazin.jpg",
+  "🥦 Yandex Lavka": {
+    image: "./yandex_lavka.jpg",
     link1: {
-      uz: "https://go-yandex.prfl.me/promokod.chegirmalar/gae6x0",
-      ru: "https://go-yandex.prfl.me/promokod.chegirmalar/gae6x0",
-      en: "https://go-yandex.prfl.me/promokod.chegirmalar/gae6x0",
+      uz: "https://lavka.prfl.me/yandeks_telegram/pqfc4q",
+      ru: "https://lavka.prfl.me/yandeks_telegram/pqfc4q",
+      en: "https://lavka.prfl.me/yandeks_telegram/pqfc4q",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/353",
+      ru: "https://t.me/yandeks_telegram/353",
+      en: "https://t.me/yandeks_telegram/353",
     },
     promo: {
-      uz: `💛 Yandex Магазин\n\n 🎁 UKJH3 - promokodi 80 000 so’mdan oshgan birinchi 3 ta buyurtma uchun 30 000 so’m chegirma\n\n‼️ Promokod barcha kafe,restorant va do'konlar ishlaydi\n\n@yandeks_telegram`,
-      ru: `💛 Яндекс Магазин\n\n 🎁 UKJH3 - промокод 30 000 сумов скидка на первые 3 заказа от 80 000 сумов\n\n‼️ Промокод действует во всех кафе, ресторанах и магазинах\n\n@yandex_telegram`,
-      en: `💛 Yandex Shop\n\n 🎁 UKJH3 - promo code 30,000 soums discount for the first 3 orders over 80,000 soums\n\n‼️ Promo code works in all cafes, restaurants and shops\n\n@yandex_telegram`,
+      uz: `💛 Yandex Lavka\n\nTOSHKENT51 - 51% lik chegirma, birinchi buyurtma uchun.\n\nPromokod faqat havola orqali mavjud.`,
+      ru: `💛 Yandex Lavka\n\nTASHKENT51 - скидка 51% на первый заказ.\n\nПромокод доступен только по ссылке.`,
+      en: `💛 Yandex Lavka\n\nTASHKENT51 - 51% discount for your first order.\n\nPromo code is available only through the link.`,
     },
   },
   "🚀 Oqtepa Lavash Bot": {
@@ -156,22 +156,22 @@ const services = {
       en: `Promo code - 2UE8DDBES8 \nYandex Plus: 90-day free trial!\n\n🎉 Great opportunity! Try Yandex Plus subscription for 90 days for free and use the following services:\n✔️ Kinopoisk: The latest movies and TV series!\n✔️ Yandex Music: Listen to your favorite music in high quality!\n✔️ Cashback and discounts: Take advantage of exclusive bonuses across Yandex!\n✔️ Offline features: Use it conveniently even without the Internet!\n\n🕒 Hurry up! The offer is valid for a limited time!\n\n📲 For details and registration 👉 Yandex Plus\n\nEnjoy free services for 90 days! 🌟\n\n‼️ To subscribe, click on the “Subscribe ✅” button below\n\n@yandex_telegram`,
     },
   },
-  "🎁 Uzum Market": {
-    image: "./uzum_market.JPG",
+  "🎁 Yandex Market": {
+    image: "./yandex_market1.jpg",
     link1: {
-      uz: "https://uzum.uz",
-      ru: "https://uzum.uz",
-      en: "https://uzum.uz",
+      uz: "https://go-yandex.prfl.me/promokod.chegirmalar/dc59xo",
+      ru: "https://go-yandex.prfl.me/promokod.chegirmalar/dc59xo",
+      en: "https://go-yandex.prfl.me/promokod.chegirmalar/dc59xo",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/352",
+      ru: "https://t.me/yandeks_telegram/352",
+      en: "https://t.me/yandeks_telegram/352",
     },
     promo: {
-      uz: `🩷 Uzum Market\n\nPromokod - \n\n180,000 soʻm ortiq istalgan buyurtma uchun -10,000 soʻm chegirma ✅\n\n🪄 Promokod oldin buyurtma bergan boʻlsangiz ham ishlaydi!\n\nTelegram havolasi: @yandeks_telegram`,
-      ru: `🩷 Uzum Market\n\nПромокод - \n\n-скидка 10 000 сум при заказе свыше 180 000 сум ✅\n\n🪄 Промокод работает, даже если вы уже делали заказ!\n\nСсылка на Telegram: @yandeks_telegram`,
-      en: `🩷 Uzum Market\n\nPromo code - \n\n-10,000 soum discount for any order over 180,000 soums ✅\n\n🪄 Promo code works even if you have placed an order before!\n\nTelegram link: @yandeks_telegram`,
+      uz: `🩷 Yandex Market\n\nUMURU - 90 000 so'm chegirma 80 000 so'mdan boshlangan birinchi uchta buyurtmaga (har bir buyurtmaga 30 000 so'mdan)\n\n AN8QZGSXGV-AF - 55%lik chegirma birinchi buyurtmaga, 80 000 so'mdan ortiq emas. Toshkent shahrida amal qiladi.`,
+      ru: `🩷 Yandex Market\n\nUMURU - скидка 90 000 сум на первые три заказа от 80 000 сум (30 000 сум за заказ)\n\n AN8QZGSXGV-AF - скидка 55% на первый заказ, не превышающий 80 000 сум. Действует в Ташкенте.`,
+      en: `🩷 Yandex Market\n\nUMURU - 90,000 soums discount for the first three orders starting from 80,000 soums (30,000 soums per order)\n\n AN8QZGSXGV-AF - 55% discount for the first order, not exceeding 80,000 soums. Valid in Tashkent.`,
     },
   },
   "🛍️ Yandex Market": {
@@ -477,8 +477,8 @@ bot.on("message", (msg) => {
     const serviceButtons = [
       ["🌭 Yandex Eats", "🍔 Uzum Tezkor"],
       ["🍕 Bellissimo Pizza", "🛸 Exprees24"],
-      ["🥦 Yandex Магазин", "🚀 Oqtepa Lavash Bot"],
-      ["🎧 Yandex Plus", "🎁 Uzum Market"],
+      ["🥦 Yandex Lavka", "🚀 Oqtepa Lavash Bot"],
+      ["🎧 Yandex Plus", "🎁 Yandex Market"],
       ["🛍️ Yandex Market", "🍕 Apex Pizza"],
       ["🛴 Jet", "🚴‍♂️ Wolt"],
       [t.info, t.help],
