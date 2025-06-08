@@ -38,9 +38,9 @@ const services = {
       en: "https://go-yandex.prfl.me/promokod.chegirmalar/h3wm8m",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/351",
+      ru: "https://t.me/yandeks_telegram/351",
+      en: "https://t.me/yandeks_telegram/351",
     },
     promo: {
       uz: `💛 Yandex Eats \n\n🎁  UKMKH- promokodi 80 000 so’mdan oshgan birinchi 3 ta buyurtma uchun 30 000 so’m chegirma\n\n‼️ Promokod barcha kafe,restorant va do'konlar ishlaydi \n\n@yandeks_telegram`,
@@ -56,9 +56,9 @@ const services = {
       en: "https://uzum1.prfl.me/promokod.chegirmalar/tqdxrw",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/346?single",
+      ru: "https://t.me/yandeks_telegram/346?single",
+      en: "https://t.me/yandeks_telegram/346?single",
     },
     promo: {
       uz: `💜 Uzum Tezkor\n\n🎁 YXLTD - promokodi 65 000 so’mdan oshgan birinchi 3 ta buyurtma uchun 21 000 so’m chegirma\n\n@yandeks_telegram`,
@@ -74,9 +74,9 @@ const services = {
       en: "https://bp.uz/app",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/354",
+      ru: "https://t.me/yandeks_telegram/354",
+      en: "https://t.me/yandeks_telegram/354",
     },
     promo: {
       uz: `❤️ Belissimo Pizza\n\n🎁 Chegirma30  - promokodi 70 000 so’mdan oshgan birinchi buyurtma uchun 30 000 so’m chegirma\n\n@yandeks_telegram`,
@@ -92,9 +92,9 @@ const services = {
       en: "https://express24.prfl.me/pramakod.chegirma/pbela0",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/350",
+      ru: "https://t.me/yandeks_telegram/350",
+      en: "https://t.me/yandeks_telegram/350",
     },
     promo: {
       uz: `💛 Express24\n\n 🎁  STPL4- promokodi 80 000 so’mdan oshgan birinchi buyurtma uchun 35 000 so’m chegirma\n\n‼️ Promokod barcha kafe,restorant va do'konlar ishlaydi\n\n@yandeks_telegram`,
@@ -128,9 +128,9 @@ const services = {
       en: "https://t.me/oqtepalavash_bot_qollanma",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/355",
+      ru: "https://t.me/yandeks_telegram/355",
+      en: "https://t.me/yandeks_telegram/355",
     },
     promo: {
       uz: `🌯 Oqtepa Lavash Bot\n\n🎁 Chegirma30 - promokodi  100 000 so’mdan oshgan istalgan 3 ta buyurtma uchun -30 000 so’mdan chegirma\n\n🛵 Bot havolasi: @Oqtepalavash_bot\n\n@yandeks_telegram`,
@@ -146,9 +146,9 @@ const services = {
       en: "https://ypls-eats.prfl.me/promokod.chegirmalar/ki8oby",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/356",
+      ru: "https://t.me/yandeks_telegram/356",
+      en: "https://t.me/yandeks_telegram/356",
     },
     promo: {
       uz: `Promokod - 2UE8DDBES8 \nYandex Plus: 90 kunlik bepul sinov muddati!\n\n🎉 Ajoyib imkoniyat! Yandex Plus obunasini 90 kun davomida bepul sinab ko‘ring va quyidagi xizmatlardan foydalaning:\n✔️ Kinopoisk: Eng so‘nggi filmlar va seriallar!\n✔️ Yandex Music: Sevimli musiqangizni yuqori sifatda tinglang!\n✔️ Cashback va chegirmalar: Yandex bo‘ylab eksklyuziv bonuslardan foydalaning!\n✔️ Oflayn imkoniyatlar: Internet bo‘lmasa ham qulay foydalaning!\n\n🕒 Tezroq shoshiling! Taklif cheklangan vaqt davomida amal qiladi!\n\n📲 Tafsilotlar va ro‘yxatdan o‘tish uchun 👉 Yandex Plus\n\n90 kun davomida bepul xizmatlardan bahramand bo‘ling! 🌟\n\n‼️ Obuna boʻlish uchun quyidagi “ Obuna boʻlish ✅ “ Tugmasiga bosing\n\n@yandeks_telegram`,
@@ -182,9 +182,9 @@ const services = {
       en: "https://go.yandex",
     },
     link2: {
-      uz: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      ru: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
-      en: "https://www.instagram.com/reel/DGIm1nRoZ6j/?igsh=MXhvMmd4ajdwbW16",
+      uz: "https://t.me/yandeks_telegram/345",
+      ru: "https://t.me/yandeks_telegram/345",
+      en: "https://t.me/yandeks_telegram/345",
     },
     promo: {
       uz: `✅ Promokod: - AYCZG5MLN-AF -50% Chegirma istalgan xaridlar uchun (Maximal 80,000 soʻm)\n\n@yandeks_telegram`,
